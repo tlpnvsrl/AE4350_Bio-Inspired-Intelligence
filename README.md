@@ -6,6 +6,7 @@ For running the project, import all files and run the "**agent.py**" file.
 Should issues with the pygame library arise, it is recommended to run this project in a dedicated environment.
 
 In case of questions/problems, please contact me:
+
     Name:         Lars van Pelt
     Stud. no:     5629632
     Email:        L.H.vanpelt@student.tudelft.nl    
